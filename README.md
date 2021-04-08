@@ -5,3 +5,5 @@ To jest prosty projekt kalkulatora.
 Robimy go przy okazji nauki gita. 
 
 Pierwszy commit na testowa_1.
+
+Pierwszy commit na testowa_2.
