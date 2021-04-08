@@ -1,10 +1,13 @@
 def get_info():
-    print ("Siema, to jest prosty kalkulator)
-
-
-def dodaj ():
-    a = int(intput())
-    b = int(intput())
-    print (a + b)
+    print ("Siema, to jest prosty kalkulator")
+    
+def dodaj (a, b):
+    wynik = a + b
+    return wynik 
+    
 get_info()
-dodaj ()
+
+a = int(input())
+b = int(input())
+
+print(dodaj (a,b))
